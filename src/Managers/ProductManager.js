@@ -69,7 +69,7 @@ class ProductManager {
     let products = await this.readProduct();
     let index = products.findIndex((prod) => prod.id === parseInt(id));
     if (index !== -1) {
-      products[index] = { ...products[index], ...updatedFields }; // Actualizar solo los campos proporcionados en updatedFields
+      products[index] = { ...products[index], ...updatedFields };
       await this.writeProduct(products);
       return "Producto actualizado exitosamente";
     } else {
