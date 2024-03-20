@@ -1,1 +1,152 @@
-[{"title":"Romeo y Julieta","description":"Tragedia romántica de William Shakespeare.","price":7500,"thumbnail":["","",""],"code":"P001","stock":446,"status":true,"category":"teatro","id":1},{"title":"El Fantasma de la Ópera","description":"Obra de teatro musical de Andrew Lloyd Webber.","price":8500,"thumbnail":["","",""],"code":"P002","stock":320,"status":true,"category":"musica","id":2},{"title":"Bodas de Sangre","description":"Tragedia lírica de Federico García Lorca.","price":7000,"thumbnail":["","",""],"code":"P003","stock":275,"status":true,"category":"teatro","id":3},{"title":"La Flauta Mágica","description":"Ópera de Wolfgang Amadeus Mozart.","price":9200,"thumbnail":["","",""],"code":"P004","stock":150,"status":true,"category":"musica","id":4},{"title":"La Casa de Bernarda Alba","description":"Tragedia de Federico García Lorca.","price":7800,"thumbnail":["","",""],"code":"P005","stock":390,"status":true,"category":"teatro","id":5},{"title":"Concierto de Piano","description":"Recital de piano a cargo de un renombrado pianista.","price":10500,"thumbnail":["","",""],"code":"P006","stock":80,"status":true,"category":"musica","id":6},{"title":"El Mesías","description":"Oratorio de Georg Friedrich Händel.","price":8000,"thumbnail":["","",""],"code":"P007","stock":200,"status":true,"category":"musica","id":7},{"title":"Ballet El Lago de los Cisnes","description":"Ballet clásico de Piotr Ilich Chaikovski.","price":9500,"thumbnail":["","",""],"code":"P008","stock":120,"status":true,"category":"eventos_sociales","id":8},{"title":"Comedia en Vivo","description":"Noche de risas con destacados comediantes.","price":7000,"thumbnail":["","",""],"code":"P009","stock":180,"status":true,"category":"eventos_sociales","id":9},{"title":"Concierto de Jazz","description":"Noche de jazz con músicos destacados.","price":9000,"thumbnail":["","",""],"code":"P010","stock":210,"status":true,"category":"musica","id":10}]
+[
+  {
+    "title": "Romeo y Julieta",
+    "description": "Tragedia romántica de William Shakespeare.",
+    "price": 7500,
+    "thumbnail": [
+      "",
+      "",
+      ""
+    ],
+    "code": "P001",
+    "stock": 446,
+    "status": true,
+    "category": "teatro",
+    "id": 1
+  },
+  {
+    "title": "El Fantasma de la Ópera",
+    "description": "Obra de teatro musical de Andrew Lloyd Webber.",
+    "price": 8500,
+    "thumbnail": [
+      "",
+      "",
+      ""
+    ],
+    "code": "P002",
+    "stock": 320,
+    "status": true,
+    "category": "musica",
+    "id": 2
+  },
+  {
+    "title": "Bodas de Sangre",
+    "description": "Tragedia lírica de Federico García Lorca.",
+    "price": 7000,
+    "thumbnail": [
+      "",
+      "",
+      ""
+    ],
+    "code": "P003",
+    "stock": 275,
+    "status": true,
+    "category": "teatro",
+    "id": 3
+  },
+  {
+    "title": "La Flauta Mágica",
+    "description": "Ópera de Wolfgang Amadeus Mozart.",
+    "price": 9200,
+    "thumbnail": [
+      "",
+      "",
+      ""
+    ],
+    "code": "P004",
+    "stock": 150,
+    "status": true,
+    "category": "musica",
+    "id": 4
+  },
+  {
+    "title": "La Casa de Bernarda Alba",
+    "description": "Tragedia de Federico García Lorca.",
+    "price": 7800,
+    "thumbnail": [
+      "",
+      "",
+      ""
+    ],
+    "code": "P005",
+    "stock": 390,
+    "status": true,
+    "category": "teatro",
+    "id": 5
+  },
+  {
+    "title": "Concierto de Piano",
+    "description": "Recital de piano a cargo de un renombrado pianista.",
+    "price": 10500,
+    "thumbnail": [
+      "",
+      "",
+      ""
+    ],
+    "code": "P006",
+    "stock": 80,
+    "status": true,
+    "category": "musica",
+    "id": 6
+  },
+  {
+    "title": "El Mesías",
+    "description": "Oratorio de Georg Friedrich Händel.",
+    "price": 8000,
+    "thumbnail": [
+      "",
+      "",
+      ""
+    ],
+    "code": "P007",
+    "stock": 200,
+    "status": true,
+    "category": "musica",
+    "id": 7
+  },
+  {
+    "title": "Ballet El Lago de los Cisnes",
+    "description": "Ballet clásico de Piotr Ilich Chaikovski.",
+    "price": 9500,
+    "thumbnail": [
+      "",
+      "",
+      ""
+    ],
+    "code": "P008",
+    "stock": 120,
+    "status": true,
+    "category": "eventos_sociales",
+    "id": 8
+  },
+  {
+    "title": "Comedia en Vivo",
+    "description": "Noche de risas con destacados comediantes.",
+    "price": 7000,
+    "thumbnail": [
+      "",
+      "",
+      ""
+    ],
+    "code": "P009",
+    "stock": 180,
+    "status": true,
+    "category": "eventos_sociales",
+    "id": 9
+  },
+  {
+    "title": "Concierto de Jazz",
+    "description": "Noche de jazz con músicos destacados.",
+    "price": 9000,
+    "thumbnail": [
+      "",
+      "",
+      ""
+    ],
+    "code": "P010",
+    "stock": 210,
+    "status": true,
+    "category": "musica",
+    "id": 10
+  }
+]

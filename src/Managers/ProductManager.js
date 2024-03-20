@@ -14,7 +14,7 @@ class ProductManager {
   };
 
   writeProduct = async (product) => {
-    await fs.writeFile(this.path, JSON.stringify(product));
+    await fs.writeFile(this.path, JSON.stringify(product,  null, 2));
   };
 
   productExist = async (id) => {
