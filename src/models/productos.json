@@ -3,6 +3,7 @@
     "title": "Romeo y Julieta",
     "description": "Tragedia romántica de William Shakespeare.",
     "price": 7500,
+    "img": "https://api.lorem.space/image/face?w=300&amp;amp;amp;amp;h=300",
     "thumbnail": [
       "",
       "",
@@ -18,6 +19,7 @@
     "title": "El Fantasma de la Ópera",
     "description": "Obra de teatro musical de Andrew Lloyd Webber.",
     "price": 8500,
+    "img": "https://api.lorem.space/image/face?w=300&amp;amp;amp;amp;h=300",
     "thumbnail": [
       "",
       "",
@@ -33,6 +35,7 @@
     "title": "Bodas de Sangre",
     "description": "Tragedia lírica de Federico García Lorca.",
     "price": 7000,
+    "img": "https://api.lorem.space/image/face?w=300&amp;amp;amp;amp;h=300",
     "thumbnail": [
       "",
       "",
@@ -48,6 +51,7 @@
     "title": "La Flauta Mágica",
     "description": "Ópera de Wolfgang Amadeus Mozart.",
     "price": 9200,
+    "img": "https://api.lorem.space/image/face?w=300&amp;amp;amp;amp;h=300",
     "thumbnail": [
       "",
       "",
@@ -63,6 +67,7 @@
     "title": "La Casa de Bernarda Alba",
     "description": "Tragedia de Federico García Lorca.",
     "price": 7800,
+    "img": "https://api.lorem.space/image/face?w=300&amp;amp;amp;amp;h=300",
     "thumbnail": [
       "",
       "",
@@ -78,6 +83,7 @@
     "title": "Concierto de Piano",
     "description": "Recital de piano a cargo de un renombrado pianista.",
     "price": 10500,
+    "img": "https://api.lorem.space/image/face?w=300&amp;amp;amp;amp;h=300",
     "thumbnail": [
       "",
       "",
@@ -93,6 +99,7 @@
     "title": "El Mesías",
     "description": "Oratorio de Georg Friedrich Händel.",
     "price": 8000,
+    "img": "https://api.lorem.space/image/face?w=300&amp;amp;amp;amp;h=300",
     "thumbnail": [
       "",
       "",
@@ -108,6 +115,7 @@
     "title": "Ballet El Lago de los Cisnes",
     "description": "Ballet clásico de Piotr Ilich Chaikovski.",
     "price": 9500,
+    "img": "https://api.lorem.space/image/face?w=300&amp;amp;amp;amp;h=300",
     "thumbnail": [
       "",
       "",
@@ -123,6 +131,7 @@
     "title": "Comedia en Vivo",
     "description": "Noche de risas con destacados comediantes.",
     "price": 7000,
+    "img": "https://api.lorem.space/image/face?w=300&amp;amp;amp;amp;h=300",
     "thumbnail": [
       "",
       "",
@@ -138,6 +147,7 @@
     "title": "Concierto de Jazz",
     "description": "Noche de jazz con músicos destacados.",
     "price": 9000,
+    "img": "https://api.lorem.space/image/face?w=300&amp;amp;amp;amp;h=300",
     "thumbnail": [
       "",
       "",
